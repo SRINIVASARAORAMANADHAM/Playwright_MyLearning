@@ -1,0 +1,22 @@
+{
+  "name": "playwright_mylearning",
+  "version": "1.0.0",
+  "description": "All Concepts of Playwright Learning and implementing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRINIVASARAORAMANADHAM/Playwright_MyLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRINIVASARAORAMANADHAM/Playwright_MyLearning/issues"
+  },
+  "homepage": "https://github.com/SRINIVASARAORAMANADHAM/Playwright_MyLearning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
